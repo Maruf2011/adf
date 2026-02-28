@@ -1,12 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Fredoka:300,regular,500,600,700);
 * {
     padding: 0;
     margin: 0;
     text-align: center;
 }
 body {
-    background-color: black;
+    background-image: url(https://pixel-shot.com/get_image/i-2210501-0.JPG);
 }
 h1 {
-    color: #fff;
-
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: "Fredoka";
 }
